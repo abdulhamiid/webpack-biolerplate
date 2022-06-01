@@ -21,7 +21,7 @@ Follow the guidelines to setup your project [Link](https://webpack.js.org/guides
 ### Clone this repository
 
 ```
-https://github.com/abdulhamiid/awesome-books-es6-modules.git
+https://github.com/abdulhamiid/webpack-biolerplate.git
 ```
 
 ## Author
