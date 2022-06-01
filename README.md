@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# # webpack-bioler-plate
+# webpack-biolerplate
 
 > This  project is a simple yet powerful webpack boilerplate, which I can use as a starting point in my projects. 
 
@@ -22,6 +22,7 @@ Follow the guidelines to setup your project [Link](https://webpack.js.org/guides
 
 ```
 https://github.com/abdulhamiid/awesome-books-es6-modules.git
+```
 
 ## Author
 
